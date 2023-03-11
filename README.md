@@ -1,0 +1,1 @@
+# This is a tableau dashboard which shows the insights for analyzing startup across timeline where a lot of filters have been considered for changing the data according to the insights. Parameters and Table operations are performed for generating better insights 
